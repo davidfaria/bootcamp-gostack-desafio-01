@@ -2,11 +2,11 @@
 
 Desafio 01 - Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando Express.
 
-# Telas
-
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/davidfaria/bootcamp-gostack-desafio-01/master/img-demo/gostack.png">
 </h1>
+
+# Telas
 
 ### Browser
 
